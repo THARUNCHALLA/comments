@@ -1,0 +1,88 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+.kl {
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+  color: white;
+  border: none;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.container2 {
+  list-style: none;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+.heading1 {
+  font-family: 'roboto';
+  font-size: 19px;
+  color: #475569;
+}
+.ha {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.harani {
+  font-family: 'roboto';
+  font-size: 08px;
+  color: #64748b;
+  margin-left: 10px;
+}
+.Rohit {
+  font-family: 'roboto';
+  font-size: 16px;
+  color: #64748b;
+}
+.tharun {
+  padding: 20px;
+}
+.Con {
+  display: flex;
+  align-items: flex-start;
+}
+.image12 {
+  border: none;
+  background-color: transparent;
+  display: flex;
+}
+.kl1 {
+  color: #0ea5e9;
+}
+.kl {
+  color: black;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+.firstImg {
+  height: 40%;
+  margin-top: 9%;
+}

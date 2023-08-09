@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 70px;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: 500;
+  font-style: italic;
+}
+.para {
+  color: #64748b;
+  font-size: 16px;
+  font-weight: 500;
+}
+.button {
+  background-color: #0ea5e9;
+  color: white;
+  border: none;
+  height: 30px;
+  border-radius: 06px;
+  margin-top: 20px;
+}
+.head12 {
+  width: 90%;
+}
+.firstContainer {
+  display: flex;
+}
+.firstButton {
+  background-color: #0ea5e9;
+  border: none;
+  color: white;
+  margin-left: 70px;
+  margin-right: 04px;
+}
+.lastContainer {
+  display: flex;
+  align-items: center;
+}
